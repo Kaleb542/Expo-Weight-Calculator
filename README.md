@@ -1,1 +1,1 @@
-# Barbell App
+# Weight Calculator
