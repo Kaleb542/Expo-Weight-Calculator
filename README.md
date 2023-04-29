@@ -1,7 +1,7 @@
 # Expo Weight Calculator
 A simple weight calculator app built with React Native and Expo. This app helps you determine the weights needed to load a barbell for a desired weight.
 ## Getting Started
-To get started, you will need to have Expo CLI installed. If you don't have Expo CLI installed, you can follow these instructions to get it set up.
+To get started, you will need to have Expo CLI installed. If you don't have Expo CLI installed, you can follow [these instructions](https://docs.expo.dev/get-started/installation/) to get it set up.
 
 Installation
 - Clone the repo
