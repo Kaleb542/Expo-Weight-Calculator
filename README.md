@@ -16,7 +16,7 @@ Installation
 The app consists of two main input fields: the weight of the barbell and the desired weight. You can select the weight of the barbell by tapping on the corresponding option. Then, enter the desired weight you want to lift and press the 'Calculate' button. The app will calculate the weights needed per side to load the barbell for the desired weight.
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/12345678/your-image.png" alt="screenshot" width="300"/>
+<img src="https://user-images.githubusercontent.com/50216622/235278207-a4f86d8a-e25f-4510-96d6-5f2c0880bf96.jpg)" alt="screenshot" width="300"/>
 
 ## Contributing
 Contributions are always welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
